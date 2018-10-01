@@ -1,0 +1,51 @@
+button{
+	background-color: white; color: black;
+	padding: 16px;
+	border-radius: 12px;
+	border: solid;
+	border-color: white;
+	position: relative;
+    right: 50px;
+}
+button:hover {
+	background-color: grey;
+}
+.URL{
+     padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;	
+}
+.Desc{
+
+	padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;	
+	line-height: 320px;
+}
+.DoneB{
+position: relative;
+    left: 95px;
+}
+.WW{
+    font-weight:bold;
+	position: relative;
+    Right: 170px;
+	
+}
+.DW{
+    font-weight:bold;
+	position: relative;
+    Right: 158px;
+	
+}
+body{
+	background-color: lightblue;
+	text-align:center;
+}
+
